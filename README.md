@@ -64,10 +64,6 @@ O dashboard foi desenvolvido no Power BI com foco na apresentação clara e obje
 ## 📌 Conclusão
 Este projeto demonstrou como transformar dados brutos em insights valiosos por meio de um processo de ETL eficiente e visualizações intuitivas. O dashboard serve como uma ferramenta poderosa para monitorar e analisar os impactos da COVID-19 de forma prática.
 
-## 🖼️ Acesso ao Dashboard
-![Acesso ao Dashboard]([link_para_imagem_dashboard.png](https://app.powerbi.com/groups/me/reports/b2c579f0-32be-4373-8866-7c78b9f93067/99517ab1cf6a66d81025?language=pt-BR&disableBranding=1&experience=power-bi))
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 - **Power BI**: Para o processo ETL e criação do dashboard.
