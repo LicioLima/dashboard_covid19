@@ -2,6 +2,9 @@
 
 Este projeto apresenta um processo de ETL (Extract, Transform, Load) realizado com os dados da pandemia de COVID-19, seguido de uma análise visual desenvolvida no Power BI. O objetivo é transformar os dados brutos em informações acionáveis por meio de métricas e visualizações.
 
+![Menu Inicial](https://github.com/user-attachments/assets/2d1faba3-7d7e-4262-9a12-249be4f19b0b)
+
+
 ## 🎯 Objetivo do Projeto
 Criar um dashboard informativo que permita acompanhar os principais indicadores relacionados à pandemia de COVID-19, como número de casos, óbitos e taxas de recuperação, extraindo insights estratégicos para tomada de decisão.
 
@@ -60,6 +63,12 @@ O dashboard foi desenvolvido no Power BI com foco na apresentação clara e obje
 - **Tabela Dinâmica**: Detalhamento por região e data.
 
 ---
+
+![Casos no Mundo](https://github.com/user-attachments/assets/de682300-ab22-4750-a930-77e277b4462c)
+
+![Casos no Brasil](https://github.com/user-attachments/assets/9c427548-faed-4d29-95d7-0b38dfad047e)
+
+
 
 ## 📌 Conclusão
 Este projeto demonstrou como transformar dados brutos em insights valiosos por meio de um processo de ETL eficiente e visualizações intuitivas. O dashboard serve como uma ferramenta poderosa para monitorar e analisar os impactos da COVID-19 de forma prática.
